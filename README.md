@@ -1,2 +1,14 @@
-# Dice-Game
-A Dice game made with HTML, CSS and JS. Player with the greater number on their respective dice wins!
+# Dice Game
+## General info
+A Dice game made with HTML, CSS, and JS. Players with a greater number of their respective dice win!
+	
+## Technologies
+Project is created with:
+* HTML
+* CSS
+* Javascript
+
+## Contributor
+* [Rishi Raj](https://github.com/akarishiraj) 
+
+
